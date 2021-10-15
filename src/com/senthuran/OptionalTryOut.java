@@ -14,6 +14,7 @@ public class OptionalTryOut {
 
         Double value = employees.stream().mapToDouble(e -> e.getSalary()).min().orElse(Double.NaN);
         System.out.println("Min Value : " + value);
+        
         JavaStream.Employee emp = employees.stream()
                 .filter(e -> e.getName().equals("Bob"))
                 .findFirst()
