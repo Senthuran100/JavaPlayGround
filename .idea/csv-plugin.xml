@@ -66,6 +66,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/com/senthuran/alternateHighLow.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/com/senthuran/isAnagram.java">
           <value>
             <Attribute>
