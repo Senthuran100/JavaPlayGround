@@ -23,7 +23,7 @@ public class largestDistinctSubArray {
                 }
             }
         }
-        return Arrays.copyOfRange(arr, (endIndex - maxCount + 1), endIndex+1);
+        return Arrays.copyOfRange(arr, (endIndex - maxCount + 1), endIndex + 1);
 
     }
 
