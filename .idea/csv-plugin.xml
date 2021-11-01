@@ -108,6 +108,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/com/senthuran/maximumSumArray.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
