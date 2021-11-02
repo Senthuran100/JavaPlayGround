@@ -41,7 +41,7 @@ public class RemoveAdajescentDuplicate {
     }
 
     public static void main(String[] args) {
-        String s = "DBAABDAB";
-        removeDuplicate("DBAABDAB");
+        String s = "ABADB";
+        removeDuplicate(s);
     }
 }
