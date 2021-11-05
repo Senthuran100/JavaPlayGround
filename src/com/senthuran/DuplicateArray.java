@@ -4,6 +4,7 @@ import java.util.*;
 
 public class DuplicateArray {
 
+    // find Duplicate in an array.
     public static List<Integer> findDuplicate(int[] array) {
         Map<Integer, Integer> elements = new HashMap<>();
         List<Integer> newArray = new ArrayList<>();
@@ -21,14 +22,6 @@ public class DuplicateArray {
             }
         }
 
-//        elements.keySet().stream().forEach((x) -> {
-//            int i = 0;
-//            if (elements.get(x) > 1) {
-//                newArray[i] = x;
-//                i++;
-//            }
-//
-//        });
         return newArray;
     }
 

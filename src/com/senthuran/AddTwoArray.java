@@ -3,6 +3,10 @@ package com.senthuran;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+Given two arrays of positive integers, add their elements into a new array. The solution should add both arrays,
+one by one starting from the 0th index, and split the sum into individual digits if it is a 2–digit number.
+ */
 public class AddTwoArray {
 
     public static void recursion(int number, List<Integer> list) {

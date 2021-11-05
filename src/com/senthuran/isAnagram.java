@@ -5,6 +5,9 @@ import java.util.Map;
 
 public class isAnagram {
 
+    /*
+     * Determine whether two strings are anagram or not
+     */
     public static boolean isAnagram(String A, String B) {
         if (A == null || B == null) {
             return false;
