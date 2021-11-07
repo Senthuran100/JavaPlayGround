@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/com/senthuran/CoinChange.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/com/senthuran/DuplicateArray.java">
           <value>
             <Attribute>
