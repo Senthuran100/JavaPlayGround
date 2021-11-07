@@ -2,12 +2,16 @@ package com.senthuran;
 
 public class CoinChange {
 
+    /*
+    Given an unlimited supply of coins of given denominations,
+    find the total number of distinct ways to get the desired change.
+     */
     public static int count(int[] S, int target) {
         int[] T = new int[target + 1];
         T[0] = 1;
         for (int i = 0; i < S.length; i++) {
             for (int j = S[i]; j <= target; j++) {
-                T[j] += T[j-S[i]];
+                T[j] += T[j - S[i]];
             }
         }
         return T[target];

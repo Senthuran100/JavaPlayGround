@@ -15,4 +15,5 @@
 * [Largest Distinct Sub Array](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/largestDistinctSubArray.java)
 * [Longest Palindrome String](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/longestPalindrome.java)
 * [Maximum Sum Array](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/maximumSumArray.java)
+* [Coin Change Problem](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/CoinChange.java)
 
