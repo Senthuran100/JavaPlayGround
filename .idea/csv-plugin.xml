@@ -10,6 +10,27 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/AdaptorDesignPattern/AdapterPatternDemo.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/AdaptorDesignPattern/AudioPlayer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/AdaptorDesignPattern/MediaPlayer.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/FactoryDesignPattern/Shape.java">
           <value>
             <Attribute>
