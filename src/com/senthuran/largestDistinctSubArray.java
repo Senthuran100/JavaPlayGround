@@ -13,7 +13,7 @@ public class largestDistinctSubArray {
             Set<Integer> set = new HashSet<>();
             for (int j = i; j < arr.length; j++) {
                 set.add(arr[j]);
-                if (set.size() == j - 1 + 1) {
+                if (set.size() == j - i + 1) {
                     if (j - i + 1 > maxCount) {
                         maxCount = j - i + 1;
                         endIndex = j;

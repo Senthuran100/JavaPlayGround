@@ -66,6 +66,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/com/senthuran/IsPalindrome.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/com/senthuran/JavaStream.java">
           <value>
             <Attribute>
