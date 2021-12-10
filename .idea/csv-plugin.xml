@@ -45,6 +45,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/Sample/SampleProgrammin.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/com/senthuran/AddTwoArray.java">
           <value>
             <Attribute>
@@ -112,6 +119,13 @@
           <value>
             <Attribute>
               <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/com/senthuran/ReverseArrayRecursion.java">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
