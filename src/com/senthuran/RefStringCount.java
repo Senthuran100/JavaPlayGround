@@ -5,7 +5,6 @@ import java.util.HashMap;
 public class RefStringCount {
 
     public static void countCharcters(String refString, String InputString) {
-        HashMap<Character, Integer> map = new HashMap<>();
         for (char c : InputString.toLowerCase().toCharArray()) {
             long count = refString.toLowerCase().chars().filter(x -> x == c).count();
             System.out.println("Character " + c + " count " + count);

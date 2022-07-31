@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/src/AsyncProgramming/ClientTest.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/src/FactoryDesignPattern/Shape.java">
           <value>
             <Attribute>
@@ -137,6 +144,13 @@
           </value>
         </entry>
         <entry key="/src/com/senthuran/ReverseString.java">
+          <value>
+            <Attribute>
+              <option name="separator" value=";" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/src/com/senthuran/SampleProgrammin.java">
           <value>
             <Attribute>
               <option name="separator" value=";" />
