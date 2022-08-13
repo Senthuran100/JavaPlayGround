@@ -16,6 +16,7 @@
 * [Longest Palindrome String](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/longestPalindrome.java)
 * [Maximum Sum Array](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/maximumSumArray.java)
 * [Coin Change Problem](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/CoinChange.java)
+* [Highest Two Digit Number](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/HighestTwoDigitNumber.java)
 * [Reverse Array using Recursion](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/ReverseArrayRecursion.java)
 * [Adapter Design Pattern](https://github.com/Senthuran100/JavaPlayGround/tree/main/src/AdaptorDesignPattern)
 
