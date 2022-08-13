@@ -9,6 +9,7 @@ public class MultipleFutureClient {
 
         int number = 100;
         Callable<Integer> sumEvenNumber = () -> {
+            Thread.sleep(3000);
             int sum = 0;
             for (int i = 0; i < number; i++) {
                 if (i % 2 == 0)
