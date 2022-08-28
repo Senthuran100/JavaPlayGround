@@ -21,4 +21,6 @@
 * [Adapter Design Pattern](https://github.com/Senthuran100/JavaPlayGround/tree/main/src/AdaptorDesignPattern)
 * [Async Programming](https://github.com/Senthuran100/JavaPlayGround/tree/main/src/AsyncProgramming)
 * [Non Repeating Character](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/NonRepeatingCharacter.java)
+* [Linked List](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/LinkedList.java)
+* [Reverse an Integer](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/ReverseInteger.java)
 
