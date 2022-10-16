@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Find the largest distinct elements in an array.
+ */
 public class largestDistinctSubArray {
 
     public static int[] largestSubArray(int[] arr) {
