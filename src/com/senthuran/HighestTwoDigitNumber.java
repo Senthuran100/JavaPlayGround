@@ -1,5 +1,8 @@
 package com.senthuran;
 
+/**
+ * Get the higest two digit number  from integer number
+ */
 public class HighestTwoDigitNumber {
 
     public int highestTwoDigit(int number) {
