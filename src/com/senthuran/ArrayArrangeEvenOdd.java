@@ -2,6 +2,10 @@ package com.senthuran;
 
 import java.util.Arrays;
 
+/**
+ * Arrange the numbers of the array in such a way that the even numbers
+ * should be placed infront of the odd numbers.
+ */
 public class ArrayArrangeEvenOdd {
 
     public static int[] orderEvenOdd(int[] number) {
