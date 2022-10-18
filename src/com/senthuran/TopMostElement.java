@@ -1,6 +1,7 @@
 package com.senthuran;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class TopMostElement {
 
@@ -15,7 +16,9 @@ public class TopMostElement {
         // Create a list from elements of HashMap
         List<Map.Entry<Integer, Integer>> list = new ArrayList<Map.Entry<Integer, Integer>>(map.entrySet());
         System.out.println("List" + list);
-
+        // Alternative way to check whether one integer is greater than the other.
+        System.out.println("Entry Set" + map.entrySet().stream().sorted((x,y)->y.getValue().compareTo(x.getValue())).collect(Collectors.toList()));
+        
         // Sort the list
         Collections.sort(list, new Comparator<Map.Entry<Integer, Integer>>() {
             public int compare(Map.Entry<Integer, Integer> o1, Map.Entry<Integer, Integer> o2) {
@@ -32,7 +35,7 @@ public class TopMostElement {
     }
 
     public static void main(String[] args) {
-        int array[] = {2, 2, 1, 1, 1, 3};
+        int array[] = {2, 2, 1, 1, 1, 3,3,3,3};
         topKElement(array, 2);
     }
 }

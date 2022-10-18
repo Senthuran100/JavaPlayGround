@@ -33,7 +33,7 @@ public class SumofArray {
     }
 
     public static void main(String[] args) {
-        int[] array = {10, 12, 89, 6, -4};
+        int[] array = {10, 12, 89, 6, -4,-4,2};
         int target = 22;
         findPair(array, target);
         System.out.println("checkZeroSum " + checkZeroSum(array));
