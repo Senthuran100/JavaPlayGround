@@ -26,3 +26,4 @@
 * [isValid Parantheis](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/ValidParentheis.java)
 * [Generics Sample](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/GenericsSample.java)
 * [Unique Sorted Array Elements](https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/UniqueSortedArrayElements.java)
+* [Tryout Comparable and Comparator] (https://github.com/Senthuran100/JavaPlayGround/blob/main/src/com/senthuran/TestComparableAndComparator.java)
