@@ -24,7 +24,7 @@ public class BinaryTree {
         binaryTree.root.left.left = new Node(5);
 
         binaryTree.treeTraverse(binaryTree.root);
-
+        System.out.println("");
         System.out.println("======= Binary Tree =======");
         BinaryTree tree = new BinaryTree();
         tree.root = new Node(3);
